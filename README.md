@@ -94,3 +94,4 @@ Live Stream: [Day 1](https://www.youtube.com/watch?v=ogy7rHWlsQ8)
 
 - [Tidyverse Train-the-Trainer](https://github.com/rstudio-education/teach-the-tidyverse), [Garrett Grolemund](https://github.com/garrettgman), [@statgarrett](https://twitter.com/statgarrett)
 
+A line I wrote on my local computer
